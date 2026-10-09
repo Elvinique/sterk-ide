@@ -1,0 +1,1 @@
+{"name":"sterk-ide","private":true,"version":"0.1.0","packageManager":"pnpm@9.15.9","scripts":{"dev":"pnpm --filter @sterk/desktop dev","build":"pnpm --filter @sterk/desktop build","typecheck":"pnpm --filter @sterk/desktop typecheck","test":"pnpm --filter @sterk/desktop test","desktop:dev":"pnpm --filter @sterk/desktop desktop:dev"}}
